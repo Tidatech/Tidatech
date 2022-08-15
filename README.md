@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Tidatech
-- 👀 I’m interested in .coouter programming 
+- 👀 I’m interested in computer  programming 
 - 🌱 I’m currently learning how to code 
 - 💞️ I’m looking to collaborate on any project 
-- 📫 How to reach via my personal kink http://dramealpha.com
+- 📫 feel free to reach via my personal link : http://dramealpha.com
 
 <!---
 Tidatech/Tidatech is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
